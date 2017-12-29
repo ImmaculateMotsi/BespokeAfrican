@@ -43,7 +43,6 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">Logo</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -65,23 +64,23 @@
   <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
-        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+        <div class="panel-heading">WOMEN'S SMART-CASUAL</div>
+        <div class="panel-body"><img src="http://weddingdigestkenya.com/wp-content/uploads/2015/07/african-ladies-clothing-ankara-peplum.jpg" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer"> Ready-to-wear smart-casual clothing for women </div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-danger">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
-        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+        <div class="panel-heading">MEN'S SMART-CASUAL </div>
+        <div class="panel-body"><img src="https://lh3.googleusercontent.com/-3rNTRlIr9_Q/VrU75K4ouRI/AAAAAAAAw68/zWobj8FzDQY/s0/img307814390f7d494cf7bd0ab96c1e07bb.jpg" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Ready-to-wear smart-casual clothing for men</div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-success">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-heading">WOMEN'S BLACK TIE</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+        <div class="panel-footer"> Women's Special Occassion Wear </div>
       </div>
     </div>
   </div>
@@ -91,23 +90,23 @@
   <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-heading">MEN'S BLACK TIE</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+        <div class="panel-footer">Men's Special Occasion Wear </div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-primary">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-heading">COUPLE'S MATCHING OUTFITS</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+        <div class="panel-footer"> His and Her's matching outfit, casual or black tie </div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-primary">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-heading"> ACCESSORIES </div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+        <div class="panel-footer">Complete your look with a wide range of African-inspired accesories for men and women </div>
       </div>
     </div>
   </div>
