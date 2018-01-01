@@ -82,7 +82,7 @@
       <div class="panel panel-primary">
         <div class="panel-heading"> ACCESSORIES </div>
         <div class="panel-body"><img src="https://runstripe.com/wp-content/uploads/2016/11/ankara-shoes-and-bags-3.jpg" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Complete your look with a wide range of African-inspired accesories for men and women </div>
+        <div class="panel-footer">Complete your look with a wide range of African-inspired accesories for both men and women </div>
       </div>
     </div>
   </div>
